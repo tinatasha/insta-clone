@@ -34,7 +34,7 @@ There are no known bugs but if you find anything please let me know by email.
 
 ## Support and contact details
 tashambiti@gmail.com 
-
+.
 ## Live Link
 [insta-clone](https://insta333.herokuapp.com/)
 
