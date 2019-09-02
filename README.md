@@ -8,7 +8,7 @@
 
 
 
-.
+
 
 
 #### A clone of the popular social media site Instagram
