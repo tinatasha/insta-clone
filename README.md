@@ -36,7 +36,7 @@ There are no known bugs but if you find anything please let me know by email.
 tashambiti@gmail.com 
 
 ## Live Link
-[Instajram](https://insta333.herokuapp.com/)
+[insta-clone](https://insta333.herokuapp.com/)
 
 
 MIT License
